@@ -5,4 +5,5 @@ This is a Sample application for understanding git and python
 
 main.py added
 
-author added
+authors:
+Aarti
