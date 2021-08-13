@@ -5,4 +5,4 @@ This module will have methods to display commandline options and menus
 """
 
 if __name__ == "__main__":
-    pass
+    print("Welcome to Inventory")
