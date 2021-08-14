@@ -3,6 +3,10 @@ inventory application
 
 This module will have methods to display commandline options and menus
 """
+def application_version():
+    return "v1.0"
+
 
 if __name__ == "__main__":
     pass
+
