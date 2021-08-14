@@ -9,8 +9,8 @@ def application_version():
 def menu():
     pass
 
+def main():
+    print("Welcome to inventory")
 
 if __name__ == "__main__":
-    print("Welcome to Inventory")
-
-
+    main()
