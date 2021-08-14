@@ -6,6 +6,9 @@ This module will have methods to display commandline options and menus
 def menu():
     pass
 
+def get_system_info():
+    pass
+
 def main():
     print("Welcome to inventory")
 
