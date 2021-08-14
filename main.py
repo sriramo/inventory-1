@@ -6,6 +6,8 @@ This module will have methods to display commandline options and menus
 def menu():
     pass
 
+def main():
+    print("Welcome to inventory")
 
 if __name__ == "__main__":
-    pass
+    main()
