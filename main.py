@@ -14,6 +14,10 @@ def menu():
 def main():
     print(f"Welcome to inventory {datetime.datetime.now()}")
 
+def main():
+    print(f"Welcome to inventory {datetime.datetime.now()}")
+
+
 if __name__ == "__main__":
     print("Welcome to Inventory")
 
