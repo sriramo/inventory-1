@@ -5,9 +5,6 @@ This module will have methods to display commandline options and menus
 """
 def application_version():
     return "v1.0"
-    
-def menu():
-    pass
 
 def main():
     print("Welcome to inventory")
