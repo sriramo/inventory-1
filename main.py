@@ -8,17 +8,5 @@ import datetime
 def application_version():
     return "v1.0"
     
-def menu():
+if __name__=='__main__' :
     pass
-
-def main():
-    print(f"Welcome to inventory {datetime.datetime.now()}")
-
-def main():
-    print(f"Welcome to inventory {datetime.datetime.now()}")
-
-
-if __name__ == "__main__":
-    print("Welcome to Inventory")
-
-
