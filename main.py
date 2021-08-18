@@ -10,3 +10,7 @@ def application_version():
     
 if __name__=='__main__' :
     pass
+
+
+def menu():
+    pass
