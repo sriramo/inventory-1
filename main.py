@@ -12,13 +12,12 @@ if __name__=='__main__' :
     pass
 
 
-
-
 def menu():
     pass
-
 
 
 if __name__ == "__main__":
     pass
     
+def menu():
+    pass
