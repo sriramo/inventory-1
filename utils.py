@@ -6,5 +6,13 @@ def is_prime(number):
 
 def sum_of_prime_numbers(max):
     numbers = list(range(2, max+1))
+<<<<<<< HEAD
     prime_numbers = list(filter(is_prime, numbers))
     return sum(prime_numbers)
+=======
+    return sum(numbers)
+
+def fibbonaci(max):
+    fibbonaci = [1,1]
+    return fibbonaci
+>>>>>>> 290077d4e01c6431fd293c03058a0276eb5efb99
