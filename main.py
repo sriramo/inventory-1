@@ -7,9 +7,12 @@ import datetime
 
 def application_version():
     return "v1.0"
+
+def main():
+    print("welcome to inventory")
     
 if __name__=='__main__' :
-    pass
+    main()
 
 if __name__=='__main__':
     pass
