@@ -7,14 +7,21 @@ main.py added
 
 
 Authors and Developers:
------------------------
+-------------------------
 
-* Sonali P
-* Aaarthi
-* Hymavathi
-* Bhawana
-* Parikshit
-* Nikhil
-* Vrushabhendra Kumar K N 
-* sharanmanne
-* Aarthi K
+ *Sonali P
+ *Aaarthi
+ *Hymavathi
+ *Bhawana 
+ *Parikshit
+ *Nikhil
+ *Vrushabhendra Kumar K N 
+ *NAGA
+ *sharanmanne
+ *Aarthi K
+
+
+
+
+
+
